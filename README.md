@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshitha-Pathru
+- 👋 Hi, I’m @Harshitha-Pathru , an automation tester 
 - 👀 I’m interested in AI /Machine learning/development/programming languages/networking
 - 🌱 I’m currently learning Python, DSA, Mathematics and Stats
 - 💞️ I’m looking to collaborate on AI/Machine learning development
