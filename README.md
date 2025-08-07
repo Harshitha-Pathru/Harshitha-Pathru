@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, DSA, Mathematics and Stats
 - 💞️ I’m looking to collaborate on AI/Machine learning development
 - 📫 How to reach me - mail me on : harshithap902@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a habit of asking too many questions and had a great interest to know things in deep and detail .
 
 <!---
